@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>/home/overdese</title>
+    <link>http://www.overdese.com/blog/</link>
+    <description>NameError: name overdese is not defined</description>
+    <language>ru-ru</language>
+    <pubDate>Wed, 14 Oct 2015 08:06:43 -0000</pubDate>
+    
+<item>
+    <title>РЈСЃС‚Р°РЅРѕРІРєР° Java РЅР° Ubuntu 14.04</title>
+    <link>http://www.overdese.com/blog/2014/07-31-java-ubuntu-install/index.html</link>
+    <description>Как установить Java на Ubuntu Linux клиентов.</description>
+    <pubDate>Thu, 31 Jul 2014 10:49:00 -0000</pubDate>
+    <guid>http://www.overdese.com/blog/2014/07-31-java-ubuntu-install/index.html</guid>
+</item>
+
+<item>
+    <title>РЈСЃС‚Р°РЅРѕРІРєР° Cacti 0.8.8b РЅР° Ubuntu Server 14.04</title>
+    <link>http://www.overdese.com/blog/2014/06-03-cacti-ubuntu-install/index.html</link>
+    <description>Установка Cacti 0.8.8b на Ubuntu Server 14.04.Настройка Windows Linux клиентов.</description>
+    <pubDate>Tue, 03 Jun 2014 10:00:00 -0000</pubDate>
+    <guid>http://www.overdese.com/blog/2014/06-03-cacti-ubuntu-install/index.html</guid>
+</item>
+
+<item>
+    <title>РџР°РјСЏС‚РєР° РїРѕ Р°РЅРіР»РёР№СЃРєРёРј РІСЂРµРјРµРЅР°Рј</title>
+    <link>http://www.overdese.com/blog/2014/05-02-times-english/index.html</link>
+    <description>Памятка по временам</description>
+    <pubDate>Fri, 02 May 2014 09:02:00 -0000</pubDate>
+    <guid>http://www.overdese.com/blog/2014/05-02-times-english/index.html</guid>
+</item>
+
+<item>
+    <title>РџРµСЂРµРІРѕРґ СЂР°Р±РѕС‡РёС… СЃС‚Р°РЅС†РёР№ РЅР° РґРёРЅР°РјРёС‡РµСЃРєРѕРµ РїРѕР»СѓС‡РµРЅРёРµ IP-Р°РґСЂРµСЃРѕРІ</title>
+    <link>http://www.overdese.com/blog/2014/03-25-auto-dhcp/index.html</link>
+    <description>Переход на DHCP</description>
+    <pubDate>Tue, 25 Mar 2014 05:00:00 -0000</pubDate>
+    <guid>http://www.overdese.com/blog/2014/03-25-auto-dhcp/index.html</guid>
+</item>
+
+</channel>
+</rss>
