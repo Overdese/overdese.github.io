@@ -1,1 +1,1 @@
-{"posts": [{"url": "/blog/2016/02-29-zavist/index.html", "title": "Зависть чужому успеху или \"Нанять Гоблина или умереть!\"", "image": "/static/custom/img/no_previw.jpg", "datetime": "2016-02-29 11:00"}]}
+{"posts": [{"title": "Зависть чужому успеху или \"Нанять Гоблина или умереть!\"", "image": "/static/custom/img/no_previw.jpg", "datetime": "2016-02-29 11:00", "url": "/blog/2016/02-29-zavist/index.html"}]}
