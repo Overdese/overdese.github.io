@@ -1,1 +1,1 @@
-{"posts": [{"title": "Перевод рабочих станций на динамическое получение IP-адресов", "image": "/static/custom/img/no_previw.jpg", "datetime": "2014-03-25 09:00", "url": "/blog/2014/03-25-auto-dhcp/index.html"}]}
+{"posts": [{"image": "/static/custom/img/no_previw.jpg", "url": "/blog/2014/03-25-auto-dhcp/", "title": "Перевод рабочих станций на динамическое получение IP-адресов", "datetime": "2014-03-25 09:00"}]}
