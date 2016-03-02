@@ -1,1 +1,1 @@
-{"posts": [{"title": "Зависть чужому успеху или \"Нанять Гоблина или умереть!\"", "datetime": "2016-02-29 11:00", "url": "/blog/2016/02-29-zavist/", "image": "/static/custom/img/no_previw.jpg"}]}
+{"posts": [{"datetime": "2016-03-02 10:29", "image": "/blog/2016/03/02-voice-post/thumb.png", "title": "Обработка голоса с микрофона в Audition", "url": "/blog/2016/03/02-voice-post/"}, {"datetime": "2016-02-29 11:00", "image": "/static/custom/img/no_previw.jpg", "title": "Зависть чужому успеху или \"Нанять Гоблина или умереть!\"", "url": "/blog/2016/02/29-zavist/"}]}
