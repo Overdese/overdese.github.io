@@ -1,1 +1,1 @@
-{"posts": [{"datetime": "2016-03-02 10:29", "image": "/blog/2016/03/02-voice-post/thumb.png", "title": "Обработка голоса с микрофона в Audition", "url": "/blog/2016/03/02-voice-post/"}]}
+{"posts": [{"url": "/blog/2016/03/02-voice-post/", "datetime": "2016-03-02 10:29", "image": "/blog/2016/03/02-voice-post/thumb.png", "title": "Обработка голоса с микрофона в Audition"}]}

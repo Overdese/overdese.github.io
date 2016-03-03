@@ -1,1 +1,1 @@
-{"posts": [{"datetime": "2016-03-03 09:25", "image": "/blog/2016/03/03-free-most-wanted/thumb.png", "title": "Бесплатный Most Wanted", "url": "/blog/2016/03/03-free-most-wanted/"}]}
+{"posts": [{"url": "/blog/2016/03/03-free-most-wanted/", "datetime": "2016-03-03 09:25", "image": "/blog/2016/03/03-free-most-wanted/thumb.png", "title": "Бесплатный Most Wanted"}]}

@@ -1,1 +1,1 @@
-{"posts": [{"datetime": "2016-02-25 12:00", "image": "/static/custom/img/no_previw.jpg", "title": "Линкосейв", "url": "/blog/2016/02/25-linksave/"}]}
+{"posts": [{"url": "/blog/2016/02/25-linksave/", "datetime": "2016-02-25 12:00", "image": "/static/custom/img/no_previw.jpg", "title": "Линкосейв"}]}

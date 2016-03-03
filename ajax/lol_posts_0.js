@@ -1,1 +1,1 @@
-{"posts": [{"datetime": "2014-05-02 13:02", "image": "/static/custom/img/no_previw.jpg", "title": "Памятка по английским временам", "url": "/blog/2014/05-02-times-english/"}]}
+{"posts": [{"url": "/blog/2014/05-02-times-english/", "datetime": "2014-05-02 13:02", "image": "/static/custom/img/no_previw.jpg", "title": "Памятка по английским временам"}]}
