@@ -1,1 +1,1 @@
-{"posts": [{"url": "/blog/2016/03/01-testovoi-progon-play/", "datetime": "2016-03-01 10:00", "image": "/static/custom/img/no_previw.jpg", "title": "Старт Overdese Play"}]}
+{"posts": [{"url": "/blog/2016/03/01-testovoi-progon-play/", "image": "/static/custom/img/no_previw.jpg", "datetime": "2016-03-01 10:00", "title": "Старт Overdese Play"}]}
