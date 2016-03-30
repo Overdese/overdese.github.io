@@ -1,0 +1,1 @@
+{"posts": [{"title": "Профсоюз сотрудников полиции предложил МВД выкупить Telegram у Дурова", "datetime": "2016-03-30 10:51", "image": "/static/custom/img/no_previw.jpg", "url": "/blog/2016/03/30-profsoyuz-sotrudnikov-politsii-predlozhil-mvd-vyikupit-telegram-u-durova/"}]}

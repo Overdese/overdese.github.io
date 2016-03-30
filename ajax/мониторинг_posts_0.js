@@ -1,1 +1,1 @@
-{"posts": [{"url": "/blog/2014/06-03-cacti-ubuntu-install/", "image": "/static/custom/img/no_previw.jpg", "datetime": "2014-06-03 14:00", "title": "Установка Cacti 0.8.8b на Ubuntu Server 14.04"}]}
+{"posts": [{"title": "Установка Cacti 0.8.8b на Ubuntu Server 14.04", "datetime": "2014-06-03 14:00", "image": "/static/custom/img/no_previw.jpg", "url": "/blog/2014/06-03-cacti-ubuntu-install/"}]}
