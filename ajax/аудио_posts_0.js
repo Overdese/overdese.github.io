@@ -1,1 +1,0 @@
-{"posts": [{"title": "Обработка голоса с микрофона в Audition", "datetime": "2016-03-02 10:29", "image": "/blog/2016/03/02-voice-post/thumb.png", "url": "/blog/2016/03/02-voice-post/"}]}

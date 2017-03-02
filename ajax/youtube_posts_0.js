@@ -1,1 +1,0 @@
-{"posts": [{"title": "Обработка голоса с микрофона в Audition", "datetime": "2016-03-02 10:29", "image": "/blog/2016/03/02-voice-post/thumb.png", "url": "/blog/2016/03/02-voice-post/"}, {"title": "Зависть чужому успеху или \"Нанять Гоблина или умереть!\"", "datetime": "2016-02-29 11:00", "image": "/static/custom/img/no_previw.jpg", "url": "/blog/2016/02/29-zavist/"}]}
